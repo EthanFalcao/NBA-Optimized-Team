@@ -6,8 +6,8 @@ In this project, we leverage Linear Programming to build an NBA team that maximi
 
 ## Usage
   1) Prepare the input data:
-  - Update the player data file (players.csv) with the desired players' information, including their performance metrics and salary details.  
-  - Modify the position requirements file (positions.json) to reflect the desired distribution of positions within the team.
+    - Update the player data file (players.csv) with the desired players' information, including their performance metrics and salary details.  
+    - Modify the position requirements file (positions.json) to reflect the desired distribution of positions within the team.
     
   2) Run the optimization algorithm:
   
